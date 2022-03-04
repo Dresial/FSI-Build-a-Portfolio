@@ -1,0 +1,17 @@
+
+body {
+    background-color: rgb(111, 0, 255);
+     cursor: pointer;}
+img { border-radius: 8px;
+    width: 500px;
+    height: 500px;
+    border-style: double; 
+    border-color: black;
+    align-self: auto;
+
+}
+.P1{
+    text-align: center;
+    background-color: rgb(108, 160, 95);
+    
+}
